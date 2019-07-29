@@ -1,5 +1,5 @@
 # hello-world
 git beginners tutorial
 Hi everyone!
-Elizabeth here. I like back-end languages and have some knowledge of front-end languages like HTML.
+Elizabeth here. This is my first repository where I will store any self-learning materials before postgraduate studies.
 
